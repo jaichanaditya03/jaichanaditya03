@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **chatbot trainer**
 
-- 🌱 I’m currently learning **springboot**
+- 🌱 I’m currently learning **GCP**
 
 - 💬 Ask me about **java, react, python**
 
